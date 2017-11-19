@@ -1,0 +1,3 @@
+	1009	label1
+	1012	label2
+	1015	label3

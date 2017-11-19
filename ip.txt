@@ -1,0 +1,10 @@
+copy	start	1000
+	lda	label1
+	add	label2
+	sta	lavel3
+label1	word	3
+label2	word	4
+label3	resw	1
+	resb
+	byte
+	end
